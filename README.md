@@ -1,2 +1,2 @@
-# nofwphp
-NoFramework.PHP approach
+# noframework
+NoFramework approach
